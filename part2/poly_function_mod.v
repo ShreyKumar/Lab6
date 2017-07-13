@@ -6,7 +6,7 @@
 //LEDR displays result
 //HEX0 & HEX1 also displays result
 
-module fpga_top(SW, KEY, CLOCK_50, LEDR, HEX0, HEX1);
+module poly_function_mod(SW, KEY, CLOCK_50, LEDR, HEX0, HEX1);
     input [9:0] SW;
     input [3:0] KEY;
     input CLOCK_50;
