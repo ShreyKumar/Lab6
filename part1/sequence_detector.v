@@ -72,7 +72,7 @@ module sequence_detector(SW, KEY, LEDR);
 
     // Output logic
     // Set out_light to 1 to turn on LED when in relevant states
-    assign out_light = ((y_Q == ???) || (y_Q == ???));
+    assign out_light = ((y_Q == F) || (y_Q == G));
 
     assign LEDR[9] = out_light;
     assign LEDR[2:0] = y_Q;
