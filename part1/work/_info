@@ -1,0 +1,30 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/16.0
+vsequence_detector
+!s110 1499978830
+!i10b 1
+!s100 LTI8i>iD?;75B@kG;LkzO0
+IW?gkd9e<;f8>i^mRQZz4o2
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/cygwin64/home/Shreyansh/UofT/CSC258/summer/lab6/part1
+w1499974078
+8sequence_detector.v
+Fsequence_detector.v
+L0 9
+OV;L;10.4d;61
+r1
+!s85 0
+31
+!s108 1499978830.000000
+!s107 sequence_detector.v|
+!s90 -reportprogress|300|-timescale|1ns/1ns|sequence_detector.v|
+!i113 1
+o-timescale 1ns/1ns
